@@ -1,0 +1,1 @@
+# template-typescript-npm-package
