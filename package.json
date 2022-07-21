@@ -23,7 +23,7 @@
     "@commitlint/config-conventional": "^11.0.0",
     "@izayl/eslint-config-ts": "^0.4.1",
     "@rollup/plugin-typescript": "^8.1.0",
-    "@types/jest": "^26.0.20",
+    "@types/jest": "26.0.24",
     "eslint": "^8.20.0",
     "husky": "^5.0.8",
     "istanbul-badges-readme": "^1.2.0",
