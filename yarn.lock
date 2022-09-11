@@ -538,22 +538,22 @@
   resolved "https://registry.yarnpkg.com/@istanbuljs/schema/-/schema-0.1.2.tgz#26520bf09abe4a5644cd5414e37125a8954241dd"
   integrity sha512-tsAQNx32a8CoFhjhijUIhI4kccIAgmGhy8LZMZgGfmXcpMbPRUqn5LWmgRttILi6yeGmBJd2xsPkFMs0PzgPCw==
 
-"@izayl/eslint-config-basic@0.4.2":
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/@izayl/eslint-config-basic/-/eslint-config-basic-0.4.2.tgz#4cd697390adf6952de1f4f76ff2074e4ab82221f"
-  integrity sha512-duAQ12LNSFsqEBgQ1k942It2dATvEcXz+WhTQ8J0aEOyH0XfQLME+59E/snnv4/X/W/VNyb/BCcpEekVFz8DAA==
+"@izayl/eslint-config-basic@0.4.3":
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/@izayl/eslint-config-basic/-/eslint-config-basic-0.4.3.tgz#dc8554a7a2be23c82b68cbb4cf760d24054f013e"
+  integrity sha512-oMFhiI9tNvfeZEkox8mL+dcV20zQAgStPQ9VZCzo9onXAJoGAt6DTx2mRs9aSzMs5AIaFQn6iCwbp2omwh1ASQ==
   dependencies:
     eslint-config-standard "^17.0.0"
     eslint-plugin-import "^2.26.0"
     eslint-plugin-n "^15.0.0"
     eslint-plugin-promise "^6.0.0"
 
-"@izayl/eslint-config-ts@0.4.2":
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/@izayl/eslint-config-ts/-/eslint-config-ts-0.4.2.tgz#f6763292e0776bda2897c643e98d53da7cd15399"
-  integrity sha512-j1yK+ifKXMW3hB0fBMcQ7TM7QzH8mERxqJguCW6LFJK7HtilmlC5KjadtRrqb6xH/V7o7jxBoiKEkfqpus/q9Q==
+"@izayl/eslint-config-ts@0.4.5":
+  version "0.4.5"
+  resolved "https://registry.yarnpkg.com/@izayl/eslint-config-ts/-/eslint-config-ts-0.4.5.tgz#d7f060bb3ff4337eb963b15847114244d3e1fc9f"
+  integrity sha512-ZQDNjuFc5+QSzp9gTcH1ZFJ8J5gWD/b7sBtzQX0d/URSGHUxM4DSGikj9zi+VJnNOWWtIqNB5b7TxxtTXyAebA==
   dependencies:
-    "@izayl/eslint-config-basic" "0.4.2"
+    "@izayl/eslint-config-basic" "0.4.3"
     "@typescript-eslint/eslint-plugin" "^5.23.0"
     "@typescript-eslint/parser" "^5.23.0"
 
