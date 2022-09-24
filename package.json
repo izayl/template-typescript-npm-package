@@ -21,7 +21,7 @@
   "devDependencies": {
     "@commitlint/cli": "17.0.3",
     "@commitlint/config-conventional": "17.0.3",
-    "@izayl/eslint-config-ts": "0.4.2",
+    "@izayl/eslint-config-ts": "0.4.5",
     "@rollup/plugin-typescript": "8.3.3",
     "@types/jest": "29.0.3",
     "eslint": "8.20.0",
