@@ -19,8 +19,8 @@
     "dev": "rollup -c -w"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.1.2",
-    "@commitlint/config-conventional": "17.1.0",
+    "@commitlint/cli": "17.8.1",
+    "@commitlint/config-conventional": "17.8.1",
     "@izayl/eslint-config-ts": "0.4.5",
     "@rollup/plugin-typescript": "8.5.0",
     "@types/jest": "29.0.3",
